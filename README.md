@@ -2,7 +2,7 @@ IOC Extractor
 
 A lightweight Python tool for extracting common Indicators of Compromise (IOCs) from text files.
 
-The project is designed as a small cybersecurity/DFIR utility for identifying potentially useful artifacts such as IP addresses, URLs, domains, email addresses, and file hashes during security investigations.
+The project is designed as a small cybersecurity/DFIR utility for identifying potentially useful artifacts such as IP addresses, URLs, domains, email addresses, and file hashes from TEXT FILES during security investigations.
 
 Features
 
@@ -26,7 +26,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/ioc-extractor.git
+git clone https://github.com/Cyb3rm0n4rch/Python_ioc_Xtractor.git
 cd ioc-extractor
 
 No additional dependencies are required.
