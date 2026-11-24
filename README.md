@@ -26,7 +26,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Cyb3rm0n4rch/Python_ioc_Xtractor.git
+git clone https://github.com/ragnar3z/Python_ioc_Xtractor.git
 cd ioc-extractor
 
 No additional dependencies are required.
